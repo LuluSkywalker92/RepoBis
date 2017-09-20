@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IS_DemoVsOnline", "IS_DemoVsOnline\IS_DemoVsOnline.dtproj", "{0631A6F3-BB52-4DAD-B7F1-BA444165DA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0631A6F3-BB52-4DAD-B7F1-BA444165DA5B}.Development|Default.ActiveCfg = Development
+		{0631A6F3-BB52-4DAD-B7F1-BA444165DA5B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
