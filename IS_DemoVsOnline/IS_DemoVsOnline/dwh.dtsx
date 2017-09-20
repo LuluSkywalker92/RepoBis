@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-QLM2J8S"
   DTS:CreatorName="DESKTOP-QLM2J8S\luigg"
-  DTS:DTSID="{85ECC161-7693-4E03-93E0-A3AE644AF38F}"
+  DTS:DTSID="{FD212BD5-2445-4DCD-A6C7-11535BC45B39}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="13.0.2165.0"
   DTS:LocaleID="1036"
-  DTS:ObjectName="test"
+  DTS:ObjectName="dwh"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{D9DB4D76-0F11-4F3A-9103-0D64FA5E356D}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{EFCCFFBC-3E0B-4BBE-B571-2F3569A8FF59}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
